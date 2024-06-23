@@ -1,9 +1,4 @@
 # Global Terrorism Analysis
-
-# Narrative and Insights
-
-Key Findings from the Analysis
-
 # Project Title: Global Terrorism Trends
 
 The data reveals significant fluctuations in the number of terrorist attacks over the years.
