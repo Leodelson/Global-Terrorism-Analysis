@@ -68,8 +68,13 @@ The impact extends to neighboring countries, affecting regional security.
 # Trends Over Time
 
 The peak in attacks around 2014 and the subsequent decline highlight the effectiveness of global counter-terrorism measures and the shifting dynamics of terrorist activities.
+
+# Conclusion 
 Despite the overall decline, certain regions continue to experience high levels of terrorism, indicating persistent underlying issues.
 By analyzing these trends and patterns, policymakers, security agencies, and international organizations can better understand the global terrorism landscape and devise strategies to mitigate its impact and address the root causes of terrorism.
+
+# Tools Used
+Microsoft Power Bi
 
 
 # NOTE:
