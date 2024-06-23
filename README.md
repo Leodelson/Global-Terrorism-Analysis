@@ -1,6 +1,4 @@
 # Global Terrorism Analysis
-# Project Title: Global Terrorism Trends
-
 The data reveals significant fluctuations in the number of terrorist attacks over the years.
 There is a noticeable increase in the number of attacks from the early 2000s, peaking around 2014, followed by a decline.
 
