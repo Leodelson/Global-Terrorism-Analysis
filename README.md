@@ -57,3 +57,7 @@ Trends Over Time:
 The peak in attacks around 2014 and the subsequent decline highlight the effectiveness of global counter-terrorism measures and the shifting dynamics of terrorist activities.
 Despite the overall decline, certain regions continue to experience high levels of terrorism, indicating persistent underlying issues.
 By analyzing these trends and patterns, policymakers, security agencies, and international organizations can better understand the global terrorism landscape and devise strategies to mitigate its impact and address the root causes of terrorism.
+
+
+NOTE:
+The Global Terrorism Dataset is too large to be stored directly in this repository. You can download the dataset from the following link:  [Download the dataset from Kaggle here: https://www.kaggle.com/datasets/nduleonardc/global-terrorism-dataset
