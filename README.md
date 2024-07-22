@@ -1,8 +1,8 @@
 # Global Terrorism Analysis
 The Global Terrorism Dashboard provides an in-depth analysis of terrorist attacks worldwide. The data reveals significant fluctuations in the number of terrorist attacks over the years, with a noticeable increase in the early 2000s, peaking around 2014, and followed by a decline. This analysis highlights the most affected regions, types of attacks and weapons used, casualties, attack locations, and trends over time.
 # Dashboard Visualization
-![globalTerrorism-dashboard](https://github.com/user-attachments/assets/81bfdf9e-9391-426d-82d5-3a1b66d36da1)
- 
+ ![globalterrorism ](https://github.com/user-attachments/assets/a413add3-3f61-4d94-b172-7b79d415c8c3)
+
 # Most Affected Regions
 
 Middle East & North Africa: This region experiences the highest number of terrorist attacks, with countries like Iraq and Syria being the most impacted.
