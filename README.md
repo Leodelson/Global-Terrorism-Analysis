@@ -1,4 +1,4 @@
-# Global Terrorism Analysis
+# Global Terrorism Analysis:
 
 ## Problem Statement
 Understanding global terrorism trends is crucial for governments, security agencies, and policy experts. Terrorist attacks vary significantly across regions, time periods, attack types, and target locations. Without a clear analytical view, it becomes difficult to identify high-risk areas, emerging threats, evolving attack methods, and the global impact on populations.  
