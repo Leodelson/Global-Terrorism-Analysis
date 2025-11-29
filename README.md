@@ -7,7 +7,8 @@ This dashboard provides a comprehensive analysis of global terrorism patterns, e
 ---
 
 ## Dashboard Visualization
-![globalterrorism](https://github.com/user-attachments/assets/a413add3-3f61-4d94-b172-7b79d415c8c3)
+<img width="924" height="506" alt="New Terrorism" src="https://github.com/user-attachments/assets/33846ccd-1202-4da2-91e5-396bd18a72b0" />
+
 
 The Global Terrorism Dashboard presents a detailed visual breakdown of attack trends over time, affected regions, casualties, weapons used, and evolving methods across decades.
 
